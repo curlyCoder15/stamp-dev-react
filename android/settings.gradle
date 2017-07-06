@@ -1,0 +1,3 @@
+rootProject.name = 'stamplet_dev'
+
+include ':app'
